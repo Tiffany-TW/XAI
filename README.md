@@ -35,8 +35,8 @@ Suppose that $z_l$ = {$v_1$}.
 According to [Mathematical Arguments](#math), $\bar{F_{z_l^c}}(z_l)$ is computed by substituting the value of $v_2$ into the approximation function $\hat{F}(v_1, v_{i, 2}).$ As a result, when $v_1=0$, $$\bar{F_{z_l^c}}(0) = \frac{1}{4}(\hat{F}(0,1)+\hat{F}(0,1)+\hat{F}(0,1)+\hat{F}(0,0))$$ $$=\frac{3}{4}\hat{F}(0,1)+\frac{1}{4}\hat{F}(0,0)$$$$=p_{v_2}(1)\hat{F}(0,1)+p_{v_2}(0)\hat{F}(0,0).$$ The result is similar when $v_1=1.$
 
 **Implementation**
-#### Accumulated Local Effects
 #### Individual Conditional Expectations
+#### Accumulated Local Effects
 #### LIME
 #### Shapley Values
 ## Reference
